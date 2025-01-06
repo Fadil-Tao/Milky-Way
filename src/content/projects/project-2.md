@@ -1,19 +1,21 @@
 ---
-title: 'Project 2'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Coin Tools'
+description: 'Website to diplay current crypto currencies prices'
 image:
-    url: '/GitHub.webp'
+    url: '/cointoolsthumb.webp'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: 'https://github.com/user-attachments/assets/a0b6916e-1ba6-403b-8490-5591702f90a5'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: 'https://github.com/user-attachments/assets/84596c41-0c4d-4852-9a58-fcce0c7d1439'
     alt: 'second image of your project.'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: React, Tailwind & JavaScript
+website: https://coin-tools.vercel.app/coin
+github: https://github.com/Fadil-Tao/Coin-Tools
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+**Coin Tools** is a web application designed to provide users with up-to-date cryptocurrency prices and detailed information about various coins. Powered by the CoinGecko API, this platform ensures accurate and real-time data to help users stay informed about the dynamic crypto market.
+
+The application features an intuitive and customizable table powered by TanStack React Table, allowing users to view ranked cryptocurrencies and tailor the table to display the data they find most relevant. Each coin's details, such as price trends, market rank, and other critical metrics, are easily accessible, making Coin Tools an ideal resource for both casual enthusiasts and serious investors.

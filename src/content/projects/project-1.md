@@ -1,19 +1,21 @@
 ---
-title: 'Project 1'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Visit Kaltim'
+description: 'Website to showcase tourism places in Kalimantan Timur'
 image:
-    url: '/GitHub.webp'
+    url: '/visitkaltimthumb.webp'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: 'https://github.com/user-attachments/assets/9f700484-71c2-48cf-a03f-528af8ca6b10'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: 'https://github.com/user-attachments/assets/71b04ad9-286a-4970-9c1d-e708a71a14fa'
     alt: 'second image of your project.'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: React, Tailwind, JavaScript
+website: https://visit-kaltim.vercel.app/
+github: https://github.com/Fadil-Tao/visit-kaltim
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+**Visit Kaltim** is a web application dedicated to promoting the stunning tourism destinations of Kalimantan Timur (East Kalimantan), Indonesia. The platform offers a curated showcase of the region's most breathtaking attractions, from lush rainforests and exotic wildlife to cultural landmarks and pristine beaches.
+
+Designed to inspire exploration and travel, Visit Kaltim provides detailed information about each destination, including descriptions, images, and practical travel tips. The interface is built with **React** for dynamic and interactive user experiences, styled with **Tailwind CSS** for a visually appealing and responsive design, and powered by **JavaScript** for robust functionality.
